@@ -1,0 +1,43 @@
+<div class="set" *ngFor="let employee of employees">
+        <div class = "nameHeader">
+        {{employee.name}}
+        </div>
+        <div class = "formi">
+                <div >
+                        <img  class="nameImage" [src]="employee.photoPath" />
+        
+                </div>
+                <div class = "details">
+                <div>
+                        Gender : {{employee.gender}}
+                </div>
+                
+                <div>
+                        DateOfBirth  : {{employee.dateOfBirth |date}}
+                  </div>
+                    <div>
+                        Department  : {{employee.department}}
+                    </div>
+                    <div>
+                        Email  : {{employee.email}}
+                    </div>
+                    <div>
+                        ContactNo  : {{employee.phoneNumber}}
+                    </div>
+                      <div>
+                                IsActive : {{employee.isActive}}
+                        </div>
+                          
+                        </div>
+                            
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        </div>
+        

@@ -1,0 +1,22 @@
+.nameHeader {
+    border-style: solid;
+    border-color: black;
+    text-align: left;
+    background-color: blue;
+    color:white;
+    
+    
+
+}
+.formSet{
+    padding : 50px;
+}
+.fieldName{
+    padding: 15px;
+    border : 10px
+}
+
+.box{
+    box-sizing: border-box;
+    box-sizing: 100;
+}

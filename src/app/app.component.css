@@ -1,0 +1,10 @@
+.view{
+    padding : 10px;
+    border : 10px
+}
+.abutton{
+    padding:10px;
+    display: inline-block;
+    border : 10px;
+    text-shadow:red;
+}

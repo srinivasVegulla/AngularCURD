@@ -1,0 +1,36 @@
+.set {
+
+display: inline;
+border : 10px
+}
+.formi{
+    display:inline
+}
+
+.nameHeader {
+    border-style: solid;
+    border-color: black;
+    text-align: left;
+    background-color: blue;
+    color:white;
+    
+    
+
+}
+
+.nameImage{
+     
+    
+    float : left;
+    height : 190px;
+    width : 220px;
+    
+    
+    
+}
+.details{
+    text-align: center;
+    line-height: 2;
+    border : 20;
+    padding : 15px;
+}
