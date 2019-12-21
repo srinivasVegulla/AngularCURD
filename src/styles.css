@@ -1,12 +1,10 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
 .nameHeader {
     border-style: solid;
     border-color: black;
     text-align: left;
     background-color: blue;
     color:white;
-    
-    
-
 }
 .formSet{
     padding : 50px;
